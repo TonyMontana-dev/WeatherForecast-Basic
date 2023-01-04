@@ -18,12 +18,12 @@ What are the main processes of this program?
 
 # Which data will the program provide?
 The program will ask the user for a city name, then it will display the following data:
-  ● Location name
-  ● Temperature data
-  ● Weather description
-  ● Minimum & Maximum Temperature data
-  ● Humidity data
-  ● Wind data
++ Location name
++ Temperature data
++ Weather description
++ Minimum & Maximum Temperature data
++ Humidity data
++ Wind data
 
 The program will let the user choose if he/she wants to continue searching for other
 cities or exit the program. Also, if the input is mistaken, it will provide an exception
@@ -35,8 +35,10 @@ not a built-in library. Therefore, you will probably need to install it before r
 program (A suggestion would be to try with a 3.8 or lower version of the python IDLE).
 Below you will find two URLs that will help you with the installation of the required
 library.
+
 # USEFUL URLs for REQUIREMENTS
 Link to the download and instructions for the correct installation:
+
 Download Files → https://pypi.org/project/requests/#files
 Library description and guide → https://pypi.org/project/requests/#description
 Entire documentation of the library → https://docs.python-requests.org/en/latest
