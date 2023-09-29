@@ -36,6 +36,19 @@ program (A suggestion would be to try with a 3.8 or lower version of the python 
 Below you will find two URLs that will help you with the installation of the required
 library.
 
+Additional information related to the keys.py file!
+You should create a individual file name keys.py where you will have the following variable names:
+
+OPENWEATHERMAP.ORG API KEYS
+
+DEFAULT API KEY
+default_key = "INSER YOUR API KEY HERE"
+
+PROGRAM PERSONALIZED API KEY "################################"
+api_key = "INSER YOUR API KEY HERE"
+
+Note, that you can change the variable names as you like, but rememeber to do so also inside the program parameters.
+
 # USEFUL URLs for REQUIREMENTS
 Link to the download and instructions for the correct installation:
 
