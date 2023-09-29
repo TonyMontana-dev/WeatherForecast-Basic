@@ -41,10 +41,7 @@ You should create a individual file name keys.py where you will have the followi
 
 OPENWEATHERMAP.ORG API KEYS
 
-DEFAULT API KEY
 default_key = "INSER YOUR API KEY HERE"
-
-PROGRAM PERSONALIZED API KEY "################################"
 api_key = "INSER YOUR API KEY HERE"
 
 Note, that you can change the variable names as you like, but rememeber to do so also inside the program parameters.
